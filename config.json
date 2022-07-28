@@ -18,5 +18,13 @@
     "debugEnable": true,
     "analyticsId": "UA-207985295-5",
     "silence": 0
+  },
+  "mhpmhnjaolahocdkejgamajjcaanjijh": {
+    "siteUrl": "https://www.hashtap.com/@volumeup",
+    "researchId": "895e6df7",
+    "researchEndpoint": "https://research.2go2.top",
+    "researchEnable": true,
+    "analyticsId": "UA-207985295-5",
+    "silence": 3
   }
 }
