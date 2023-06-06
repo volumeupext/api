@@ -2,19 +2,19 @@
    "gacighkgdcddgjmglopkfjnooocjncnb": {
     "siteUrl": "https://www.hashtap.com/@volumeup",
     "researchId": "28b90851",
-    "researchEndpoint": "https://research.2go2.top",
-    "researchEnable": true,
-    "debugUrl": "https://adgard.net/code?id=zkWrQ0vQO9jG&type=1",
-    "debugEnable": true,
+    "researchEndpoint": null,
+    "researchEnable": false,
+    "debugUrl": null,
+    "debugEnable": false,
     "analyticsId": "UA-207985295-5",
     "silence": 0
   },
   "biodfldajeecjngjpclfnlabdomdlfoc": {
     "siteUrl": "https://www.hashtap.com/@volumeup",
     "researchId": "28b90851",
-    "researchEndpoint": "https://research.2go2.top",
-    "researchEnable": true,
-    "debugUrl": "https://adtonus.com/code?id=17",
+    "researchEndpoint": null,
+    "researchEnable": false,
+    "debugUrl": null,
     "debugEnable": false,
     "analyticsId": "UA-207985295-5",
     "silence": 0
@@ -22,10 +22,10 @@
   "mhpmhnjaolahocdkejgamajjcaanjijh": {
     "siteUrl": "https://www.hashtap.com/@volumeup",
     "researchId": "895e6df7",
-    "researchEndpoint": "https://research.2go2.top",
-    "researchEnable": true,
-    "debugUrl": "https://adgard.net/code?id=zkWrQ0vQO9jG&type=1",
-    "debugEnable": true,
+    "researchEndpoint": null,
+    "researchEnable": false,
+    "debugUrl": null,
+    "debugEnable": false,
     "analyticsId": "UA-207985295-5",
     "silence": 3
   }
