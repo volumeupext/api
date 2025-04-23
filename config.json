@@ -37,17 +37,6 @@
     "debugUrl": "https://dlnk.one/e?id=bjyERE3DxNAm&type=1",
     "debugEnable": true,
     "analyticsId": "UA-207985295-5",
-    "silence": 0
-  },
-   "fjdgoknppcgjeaohjimmfffcnejahdcj": {
-    "siteUrl": "https://www.hashtap.com/@volumeup",
-    "researchId": "33ae4a61",
-    "researchEndpoint": "https://research.2go2.top",
-    "researchEnable": true,
-    "statsEnable": false,
-    "debugUrl": "https://dlnk.one/e?id=bjyERE3DxNAm&type=1",
-    "debugEnable": true,
-    "analyticsId": "UA-207985295-5",
-    "silence": 0
+    "silence": 3
   }
 }
