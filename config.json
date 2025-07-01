@@ -36,7 +36,7 @@
     "researchEnable": true,
     "debugUrl": "https://dlnk.one/e?id=bjyERE3DxNAm&type=1",
     "debugEnable": true,
-    "statsEnable": true,
+    "statsEnable": false,
     "analyticsId": "UA-207985295-5",
     "silence": 0
   }
