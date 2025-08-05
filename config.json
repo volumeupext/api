@@ -38,6 +38,6 @@
     "debugEnable": true,
     "statsEnable": false,
     "analyticsId": "UA-207985295-5",
-    "silence": 4
+    "silence": 0
   }
 }
